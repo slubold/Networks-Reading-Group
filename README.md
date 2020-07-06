@@ -1,6 +1,8 @@
 # Networks Reading Group
 Welcome to the networks reading group in the UW statistics department!
 
+![alt text](https://user-images.githubusercontent.com/130832/52767777-6354c800-3023-11e9-9032-3a5a89190996.png)
+
 # Potential Papers
 
 1) Testing for Global Network Structure Using Small Subgraph Statistics: https://arxiv.org/pdf/1710.00862.pdf
