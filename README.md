@@ -3,4 +3,4 @@ Welcome to the networks reading group.
 
 # Potential Papers
 
-# Schedule
+# Schedule - Summer and Winter 2020
