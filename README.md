@@ -1,7 +1,6 @@
 # Networks Reading Group
 Welcome to the networks reading group in the UW statistics department!
 
-![alt text](https://user-images.githubusercontent.com/130832/52767777-6354c800-3023-11e9-9032-3a5a89190996.png)
 
 # Potential Papers
 
