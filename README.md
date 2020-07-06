@@ -1,7 +1,6 @@
 # Networks Reading Group
 Welcome to the networks reading group in the UW statistics department!
 
-![alt text](https://griffsgraphs.files.wordpress.com/2012/07/facebook-network.png)
 
 
 # Potential Papers
