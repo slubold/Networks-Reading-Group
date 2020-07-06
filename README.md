@@ -1,5 +1,5 @@
-# Networks-Reading-Group
-Welcome to the networks reading group.  
+# Networks Reading Group
+Welcome to the networks reading group in the UW statistics department!
 
 # Potential Papers
 
