@@ -13,7 +13,10 @@ Welcome to the networks reading group in the UW statistics department!
 6) The Geometry of Continuous Latent Space Models for Network Data: https://arxiv.org/pdf/1712.08641.pdf
 7) Measuring the Robustness of Graph Properties:  https://arxiv.org/pdf/1901.09661.pdf
 8) Multi-scale network regression for brain-phenotype associations: https://onlinelibrary.wiley.com/doi/pdf/10.1002/hbm.24982
-9) Respondent-Driven Sampling: A New Approach to the Study of Hidden Populations. https://www.jstor.org/stable/3096941
+9) Respondent-Driven Sampling: An Assessment of Current Methodology. https://arxiv.org/pdf/0904.1855v1.pdf
+10) Population Size Estimation Using Multiple Respondent-Driven Sampling Surveys: http://www.asasrms.org/Proceedings/y2019/files/1199589.pdf
+11) Inference for social network models from egocentrically sampled data, with application to understanding persistent racial disparities in HIV prevalence in the US:
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5737754/
 
 
 
