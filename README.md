@@ -13,6 +13,8 @@ Welcome to the networks reading group in the UW statistics department!
 6) The Geometry of Continuous Latent Space Models for Network Data: https://arxiv.org/pdf/1712.08641.pdf
 7) Measuring the Robustness of Graph Properties:  https://arxiv.org/pdf/1901.09661.pdf
 8) Multi-scale network regression for brain-phenotype associations: https://onlinelibrary.wiley.com/doi/pdf/10.1002/hbm.24982
+9) Respondent-Driven Sampling: A New Approach to the Study of Hidden Populations. https://www.jstor.org/stable/3096941
+
 
 
 # Schedule - Summer/Fall 2020
