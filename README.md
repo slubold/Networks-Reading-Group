@@ -17,6 +17,7 @@ Welcome to the networks reading group in the UW statistics department!
 10) Population Size Estimation Using Multiple Respondent-Driven Sampling Surveys: http://www.asasrms.org/Proceedings/y2019/files/1199589.pdf
 11) Inference for social network models from egocentrically sampled data, with application to understanding persistent racial disparities in HIV prevalence in the US: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5737754/
 12) Additive and multiplicative effects network models: https://arxiv.org/pdf/1807.08038.pdf
+13) How many people do you know?: Efficiently estimating personal network size: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3666355/
 
 
 
