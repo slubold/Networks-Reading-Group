@@ -16,7 +16,7 @@ Welcome to the networks reading group in the UW statistics department!
 9) Respondent-Driven Sampling: An Assessment of Current Methodology. https://arxiv.org/pdf/0904.1855v1.pdf
 10) Population Size Estimation Using Multiple Respondent-Driven Sampling Surveys: http://www.asasrms.org/Proceedings/y2019/files/1199589.pdf
 11) Inference for social network models from egocentrically sampled data, with application to understanding persistent racial disparities in HIV prevalence in the US: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5737754/
-12) 10)Additive and multiplicative effects network models: https://arxiv.org/pdf/1807.08038.pdf
+12) Additive and multiplicative effects network models: https://arxiv.org/pdf/1807.08038.pdf
 
 
 
